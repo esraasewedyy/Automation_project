@@ -20,7 +20,7 @@ public class UserRegistrationTest extends TestBase{
         signupPageObject = new SignupPage(driver);
         signupPageObject.selectBirthday();
         signupPageObject.selectMonthDate();
-        signupPageObject.selectYearName();
+
 
 
     }
